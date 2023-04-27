@@ -1,0 +1,94 @@
+View Logs - (20/03/2023)
+Today I have almost completed breadcrumb task only deletion of data is remaining . Also I have started HR task in which I have designed front end. Therefore, backend is pending.
+
+View Logs - (21/03/2023)
+Today I have complete HR related assignment 
+
+View Logs - (22/03/2023)
+Today I have completed breadcrumb task. Also, I have completed few remaining things in Hr task such as searching of data in employee,  and branch module. Moreover, I have started the final task in which I have designed add user page.
+
+View Logs - (24/03/2023)
+ Today I have completed user updation , deletion , export data to excel, import data from excel also I have designed front end for search and filter. Therefore, only search and pagination is pending.
+
+View Logs - (23/03/2023)
+Today I have completed with adding user data in database and showing data from database to front-end, I have used multer for saving image. Also I have completed with viewing profile and frontend for edit profile. So updation, deletion and rest of the tasks are still incomplete.
+
+
+View Logs - (27/03/2023)
+Today I have completed final task.The only thing I have to do before showing it to you is just go through all the assignments once.
+
+View Logs - (28/03/2023)
+ Today I have gone through all previous node JS assignments. After which I have started practicing next JS. Topics like basics of next JS ,Navigation ,Assets, Metadata, and CSS are completed.
+
+View Logs - (29/03/2023)
+Today I have learnt next JS topics such as pages, links, image optimization, pre-rendering , data fetching methods, routes, dynamic routes, nested routes, injecting routes and catching all the routes in next Js.
+
+View Logs - (30/03/2023)
+Today I have learnt customized pagination and filter. Also learnt other add on features of next JS. Moreover I am practicing next JS by simple example project.
+
+View Logs - (31/03/2023)
+Today i have started final assignment in next js
+
+View Logs - (03/04/2023)
+Today I have completed update, delete and view user detail task. Also pagination and filter is completed. Export and Import of data to and from csv file is pending.
+
+
+View Logs - (04/04/2023)
+	Today I have completed final task in next Js. also I have started one practice web site which is based on instragram.
+
+View Logs - (05/04/2023)
+	 Today I have done some work in practice project which is based on instagram . viewing profile , profile search, liking profile is completed. And I have learnt how to generated QRcode using react.
+
+View Logs - (06/04/2023)
+	today I have done work in practice website. I have given search profile option in practice website. user can add post, remaining features is still pending.
+
+View Logs - (12/04/2023)
+Today I have completed follow, followers and following part of the practice project
+
+View Logs - (13/04/2023)
+Today I have Completed showing suggestions for user to follow another user and edit Profile.
+
+View Logs - (14/04/2023)
+	Today I have completed deletion of post, archive post, validation of data in practice website. Also I have used toast instead of alert at some places.
+
+View Logs - (17/04/2023)
+	Today I have done showing story and adding story to feed part, also I had one issue with like part, so I have also resolved it.
+
+View Logs - (18/04/2023)
+	Today i have done Story part of practice website, which includes deletion of story after 24 hours, also includes changing color of border after user once visit story, moreover if new story is added by the another user which is visited already will change to unvisited again
+
+View Logs - (19/04/2023)
+	Today I have change some features in login page and register page. Also I have add feature of Private and public account. moreover, write query which gives post on home page whom user is following or user's post itself or public account post and if any user tries to search private user whom he/she is not following then that user can't see posts of searched user.
+
+View Logs - (20/04/2023)
+	Today I have change phone input in registration page, added feature of request for follow and accept or reject feature, Also I have added feature that account owner can remove his/her follower.
+
+View Logs - (21/04/2023)
+Today I have gone through some topics like template engine, ejs, status code, cookie and I have also gone through few topics of jQuery such as selectors, events, hide, show, fade, slide, animation, stop, callback, chaining. After this I get some knowledge on  get, set, add, remove, CSS(), load in jQuery.
+
+View Logs - (24/04/2023)
+Today I have practice html, css, javaScript and see few concepts of mongodb
+
+View Logs - (25/04/2023)
+Good Evening Ma'am, Today I have gone through some angularJS topics like expression, modules, directive, model, data binding, controllers, scopes, filters, routing, select, table, DOM, and events.
+
+View Logs - (26/04/2023)
+	Today I have gone through jquery, rest api and Soap api.
+
+
+View Logs - (27/04/2023)
+Today I have completed one mini task of doing CRUD operation through API.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
